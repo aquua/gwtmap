@@ -1,0 +1,2 @@
+serviceClass: com.sonaclo.client.GreetingService
+path: 068596E94D552B2CD470E03F69FF6788.gwt.rpc
